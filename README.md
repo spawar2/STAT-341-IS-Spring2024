@@ -12,3 +12,5 @@ Learning Objectives[# STAT-341-IS-Spring2024](https://pawar1550.wixsite.com/claf
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
+
+Copy of STAT341 IS 2024 (3 credit) (1 student)
