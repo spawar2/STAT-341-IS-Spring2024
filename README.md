@@ -15,4 +15,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
-CSCI101-Spring2024 (3 credit) (25 students)
+CSCI101-Spring2024 (3 credit) (25 students) **Undergraduate Class & Lab
