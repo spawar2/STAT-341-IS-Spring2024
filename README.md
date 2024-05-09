@@ -15,4 +15,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
-CSCI101-Spring2024 (3 credit) (25 students) **Undergraduate Class & Lab
+CSCI101-Spring2024 (3 credit) (25 students) **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
